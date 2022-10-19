@@ -1,4 +1,4 @@
-#Instagram Clone
+# Instagram Clone
 
 Instagram clone is an app build using new technologies/trends and other advanced Jetpack compose specific concepts.
 
